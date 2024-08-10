@@ -1,0 +1,79 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 1,
+        "title": "WanderWave",
+        "content": "WanderWave is a travel blog platform developed using Next.js, TailwindCSS, and JavaScript. The backend is built with Express.js and Node.js, while MongoDB serves as the database.",
+        "imgurl": "/projectSS/WanderWave.png",
+        "githubLink": "https://github.com/HarshS509/WanderWave",
+        "deployedLink": "https://www.wander-wave.fun/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/node.png"
+          },
+          {
+            "tech": "/skillsLogos/mongodb.png"
+          },
+          {
+            "tech": "/skillsLogos/express.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "WanderStay",
+        "content": "WanderStay is a hotel booking platform created with Next.js, TailwindCSS, and JavaScript. The backend utilizes Next.js API routes, and the database is powered by PostgreSQL. Image storage and management are handled through Supabase.",
+        "imgurl": "/projectSS/WanderStay.png",
+        "githubLink": "https://github.com/HarshS509/WanderStay",
+        "deployedLink": "https://wander-stay-inn.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/postgreSQL.png"
+          }
+        ]
+      },
+
+      {
+        "id": 3,
+        "title": "Portfolio",
+        "content": "NextJS was used to create the portfolio website. TailwindCSS and Framer motion were used to style the website.",
+        "imgurl": "/projectSS/portfolio.png",
+        "githubLink": "https://github.com/HarshS509/Portfolio",
+        "deployedLink": "https://HarshSojitra.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/framer.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          }
+        ]
+      }
+    ]
+  }
+}
